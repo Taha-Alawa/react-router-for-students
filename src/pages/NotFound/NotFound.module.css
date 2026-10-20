@@ -1,0 +1,10 @@
+.notFound {
+  text-align: center;
+  padding: calc(var(--space) * 3);
+}
+
+.notFound h1 {
+  font-size: 5rem;
+  color: var(--color-secondary);
+  margin: 0;
+}
